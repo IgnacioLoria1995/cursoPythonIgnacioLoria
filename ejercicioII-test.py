@@ -18,8 +18,8 @@ else:
         edad = int(input('Ingrese edad: '))
 
 
-        if edad < 18:
 
+        if edad < 18:
             condicion_edad = 'menor'
         elif  edad < 65:
             condicion_edad = 'mayor'
